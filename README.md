@@ -1,6 +1,10 @@
 # 💫 About Me:
 👨‍💻 Working on Java Full Stack projects  <br>Academic + Java Full Stack projects<br><br>🌍 Open to opportunities  <br>Internships, open-source contributions, and team projects  <br><br>🌱 I’m currently learning  <br>DSA, Microservices, Redis caching, Cloud Fundamentals & System Design basics <br><br>🧠 I’m looking for help with  <br>System design, scalability, and advanced Spring Security <br><br>💬 Ask me about  <br>Java, Spring Boot, REST APIs, React, MySQL <br><br>🏗️ Tech stack I use  <br>Java, Spring Boot, React, MySQL, MongoDB, Git, Postman<br><br>🧪 Projects I enjoy building  <br>CRUD apps, backend APIs, chat systems, and management systems<br><br>🎯 Career goal  <br>Become a skilled Full Stack Developer<br><br>⚡ Fun fact<br>I enjoy building backend logic more than UI 😄<br>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Building+Scalable+Web+Apps"/>
+</p>
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
