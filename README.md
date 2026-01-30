@@ -7,6 +7,10 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrijeetModak&layout=compact&theme=tokyonight"/>
+</p>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/srijeet-modak-606a9b2b6) 
 
