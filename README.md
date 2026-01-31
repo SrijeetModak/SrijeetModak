@@ -77,7 +77,9 @@
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SrijeetModak&limit=5&theme=radical&combine_all_yearly_contributions=true) 
 
-![Profile Views](https://komarev.com/ghpvc/?username=SrijeetModak&style=for-the-badge)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SrijeetModak&style=for-the-badge" />
+</p>
 
 ![Thanks for visiting](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30)
 
