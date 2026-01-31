@@ -56,22 +56,18 @@
   <img width="12" />
 </div>
 
-
-## 📊 GitHub Profile Summary
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SrijeetModak&theme=tokyonight" />
-
 ## 📊 GitHub Stats:
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SrijeetModak&theme=tokyonight" />
 ![](https://github-readme-stats.vercel.app/api?username=SrijeetModak&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SrijeetModak&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SrijeetModak&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SrijeetModak&theme=github-compact)
 
 <!-- Snake Game Repo View -->
 ## 🐍 Contribution Graph Animation
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=SrijeetModak&theme=github-compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SrijeetModak&theme=radical&no-frame=false&no-bg=false&margin-w=4) 
