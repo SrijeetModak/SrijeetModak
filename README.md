@@ -62,11 +62,11 @@
 </p> 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SrijeetModak&theme=radical&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SrijeetModak&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SrijeetModak&theme=radical&hide_border=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SrijeetModak&theme=radical" />
 </p>
 
 <p align="center">
