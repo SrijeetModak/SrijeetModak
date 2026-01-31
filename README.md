@@ -7,7 +7,17 @@
 </p>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/srijeet-modak-606a9b2b6) 
+<div align="left">
+  <a href="mailto:srijeetmodak38@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge"
+         height="35" alt="gmail logo" />
+  </a>
+
+  <a href="https://linkedin.com/in/srijeet-modak-606a9b2b6">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge"
+         height="35" alt="linkedin logo" />
+  </a>
+</div>
 
 ## 💻 Tech Stack:
 <div align="left">
