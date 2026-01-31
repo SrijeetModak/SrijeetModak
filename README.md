@@ -71,6 +71,8 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SrijeetModak&theme=github-compact)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SrijeetModak&theme=radical&no-frame=false&no-bg=false&margin-w=4) 
 
