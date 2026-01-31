@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Working on Java Full Stack projects  <br>Academic + Java Full Stack projects<br><br>🌍 Open to opportunities  <br>Internships, open-source contributions, and team projects  <br><br>🌱 I’m currently learning  <br>DSA, Microservices, Redis caching, Cloud Fundamentals & System Design basics <br><br>🧠 I’m looking for help with  <br>System design, scalability, and advanced Spring Security <br><br>💬 Ask me about  <br>Java, Spring Boot, REST APIs, React, MySQL <br><br>🏗️ Tech stack I use  <br>Java, Spring Boot, React, MySQL, MongoDB, Git, Postman<br>
+👨‍💻 Working on Java Full Stack projects  <br>Academic + Java Full Stack projects<br><br>🌍 Open to opportunities  <br>Internships, open-source contributions, and team projects  <br><br>🌱 I’m currently learning  <br>DSA, Spring Security, Microservices, Redis caching, Cloud Fundamentals & System Design basics <br><br>💬 Ask me about  <br>Java, Spring Boot, REST APIs, React, MySQL <br><br>🏗️ Tech stack I use  <br>Java, Spring Boot, React, MySQL, MongoDB, Git, Postman<br>
 
 # ✨ Overview
 <p align="center">
