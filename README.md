@@ -80,6 +80,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=SrijeetModak&icon=5&color=0)](https://visitcount.itsvg.in) 
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SrijeetModak&label=Profile%20views&color=blueviolet&style=flat" />
+</p>
+
 ![Thanks for visiting](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30)
 
 
