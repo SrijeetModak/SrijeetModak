@@ -20,17 +20,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=SrijeetModak&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SrijeetModak&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🟡 Pac-Man Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/SrijeetModak/SrijeetModak/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/SrijeetModak/SrijeetModak/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph"
-    src="https://raw.githubusercontent.com/SrijeetModak/SrijeetModak/output/pacman-contribution-graph.svg">
-</picture>
-
+<!-- Snake Game Repo View -->
+## 🐍 Contribution Graph Animation
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SrijeetModak&theme=radical&no-frame=false&no-bg=false&margin-w=4)
