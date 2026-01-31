@@ -8,9 +8,10 @@
 
 ## 🌐 Socials:
 <div align="left">
-  <a href="https://linkedin.com/in/srijeet-modak-606a9b2b6">
+  <a href="https://linkedin.com/in/srijeet-modak-606a9b2b6" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge"
-         height="35" alt="linkedin logo" />
+         height="35"
+         alt="LinkedIn logo" />
   </a>
 </div>
 
