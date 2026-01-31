@@ -81,7 +81,7 @@
   <img src="https://komarev.com/ghpvc/?username=SrijeetModak&style=for-the-badge" />
 </p>
 
-<h3 align="center">🤝 Let's Connect and Build Something Together</h3>
+<h3>🤝 Let's Connect and Build Something Together</h3>
 
 ![Thanks for visiting](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30)
 
