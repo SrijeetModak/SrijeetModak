@@ -70,14 +70,14 @@
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
+<!--
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SrijeetModak&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+![](https://github-profile-trophy.vercel.app/?username=SrijeetModak&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
+<!--
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SrijeetModak&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
+![](https://github-contributor-stats.vercel.app/api?username=SrijeetModak&limit=5&theme=radical&combine_all_yearly_contributions=true) -->
+<!--
 ---
-[![](https://visitcount.itsvg.in/api?id=SrijeetModak&icon=5&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SrijeetModak&icon=5&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
