@@ -66,7 +66,6 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SrijeetModak&theme=github-compact)
 
 <!-- Snake Game Repo View -->
-## 🐍 Contribution Graph Animation
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
