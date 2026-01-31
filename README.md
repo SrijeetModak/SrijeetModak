@@ -57,24 +57,35 @@
 </div>
 
 ## 📊 GitHub Stats:
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SrijeetModak&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SrijeetModak&theme=tokyonight" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=SrijeetModak&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SrijeetModak&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SrijeetModak&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SrijeetModak&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
+</p>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SrijeetModak&theme=radical&hide_border=false" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrijeetModak&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SrijeetModak&theme=github-compact)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SrijeetModak&theme=github-compact" />
+</p>
 
+## 🐍 Contribution Calendar Animation
 <!-- Snake Game Repo View -->
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SrijeetModak&theme=radical&no-frame=false&no-bg=false&margin-w=4) 
+<!-- ## 🏆 GitHub Trophies -->
+<!-- ![](https://github-profile-trophy.vercel.app/?username=SrijeetModak&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SrijeetModak&limit=5&theme=radical&combine_all_yearly_contributions=true) 
+<!-- ## 🔝 Top Contributed Repo -->
+<!-- ![](https://github-contributor-stats.vercel.app/api?username=SrijeetModak&limit=5&theme=radical&combine_all_yearly_contributions=true) -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SrijeetModak&style=for-the-badge" />
