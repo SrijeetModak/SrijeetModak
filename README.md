@@ -77,6 +77,13 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+<details>
+  <summary>$ show projects</summary>
+  🚀 Project 1  
+  🌐 Project 2  
+  📦 Project 3  
+</details>
+
 <!-- ## 🏆 GitHub Trophies -->
 <!-- ![](https://github-profile-trophy.vercel.app/?username=SrijeetModak&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
 
