@@ -1,9 +1,9 @@
-## 💫 About Me:
-👨‍💻 Working on <br>Academics & Java Full Stack Projects<br><br>🌍 Open to opportunities  <br>Internships, open-source contributions & team projects  <br><br>🌱 I’m currently learning  <br>DSA, Spring Security, Microservices, Redis caching, Cloud Fundamentals & System Design basics <br><br>💬 Ask me about  <br>Java, Spring Boot, REST APIs, React, MySQL <br><br>🏗️ Tech stack I use  <br>Java, Spring Boot, React, MySQL, MongoDB, Git, Postman<br>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0a1a2f&height=120&text=Welcome%20to%20Srijeet's%20GitHub%20Profile!&fontSize=36&animation=fadeIn&fontColor=ffffff" width="90%" />
 </p>
+
+## 💫 About Me:
+👨‍💻 Working on <br>Academics & Java Full Stack Projects<br><br>🌍 Open to opportunities  <br>Internships, open-source contributions & team projects  <br><br>🌱 I’m currently learning  <br>DSA, Spring Security, Microservices, Redis caching, Cloud Fundamentals & System Design basics <br><br>💬 Ask me about  <br>Java, Spring Boot, REST APIs, React, MySQL <br><br>🏗️ Tech stack I use  <br>Java, Spring Boot, React, MySQL, MongoDB, Git, Postman<br>
 
 ## ✨ Overview
 <p align="center">
