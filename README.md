@@ -77,8 +77,10 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-![Status](https://img.shields.io/badge/Server-Online-brightgreen)
-![Mode](https://img.shields.io/badge/Terminal-Active-blue)
+<!--START_SECTION:feed-->
+* [Latest Post](https://link.com)
+<!--END_SECTION:feed-->
+
 
 <!-- ## 🏆 GitHub Trophies -->
 <!-- ![](https://github-profile-trophy.vercel.app/?username=SrijeetModak&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
