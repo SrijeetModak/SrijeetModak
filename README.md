@@ -1,7 +1,7 @@
 ## 💫 About Me:
 👨‍💻 Working on <br>Academics & Java Full Stack Projects<br><br>🌍 Open to opportunities  <br>Internships, open-source contributions & team projects  <br><br>🌱 I’m currently learning  <br>DSA, Spring Security, Microservices, Redis caching, Cloud Fundamentals & System Design basics <br><br>💬 Ask me about  <br>Java, Spring Boot, REST APIs, React, MySQL <br><br>🏗️ Tech stack I use  <br>Java, Spring Boot, React, MySQL, MongoDB, Git, Postman<br>
 
-![Waves](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World&fontSize=40&animation=twinkling)
+<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100%" />
 
 ## ✨ Overview
 <p align="center">
