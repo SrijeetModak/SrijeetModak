@@ -77,11 +77,16 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+<!-- Gradient banner -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&animation=twinkling)
+
+<!-- Overlay with React GIFs -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="40"/>
   Welcome to My Profile
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="40"/>
 </h1>
+
 
 <!-- ## 🏆 GitHub Trophies -->
 <!-- ![](https://github-profile-trophy.vercel.app/?username=SrijeetModak&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
