@@ -1,4 +1,6 @@
 <h1 align="center">
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="40"/>
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="40"/>
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="40"/>
   Welcome to Srijeet's GitHub Profile
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="40"/>
