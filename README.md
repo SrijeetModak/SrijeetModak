@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0a1a2f&height=120&text=Welcome%20to%20Srijeet's%20GitHub%20Profile!&fontSize=36&animation=fadeIn&fontColor=ffffff" width="90%" />
-</p>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="40"/>
+  Welcome to Srijeet's GitHub Profile
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="40"/>
+</h1>
 
 ## 💫 About Me:
 👨‍💻 Working on <br>Academics & Java Full Stack Projects<br><br>🌍 Open to opportunities  <br>Internships, open-source contributions & team projects  <br><br>🌱 I’m currently learning  <br>DSA, Spring Security, Microservices, Redis caching, Cloud Fundamentals & System Design basics <br><br>💬 Ask me about  <br>Java, Spring Boot, REST APIs, React, MySQL <br><br>🏗️ Tech stack I use  <br>Java, Spring Boot, React, MySQL, MongoDB, Git, Postman<br>
@@ -76,17 +78,6 @@
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
-<!-- Gradient banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&animation=twinkling)
-
-<!-- Overlay with React GIFs -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="40"/>
-  Welcome to My Profile
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="40"/>
-</h1>
-
 
 <!-- ## 🏆 GitHub Trophies -->
 <!-- ![](https://github-profile-trophy.vercel.app/?username=SrijeetModak&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
