@@ -6,7 +6,6 @@
   <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="40"/>
   Welcome to Srijeet's GitHub Profile
   <img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="40"/>
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="40"/>
 </h1>
 
 ## 💫 About Me:
