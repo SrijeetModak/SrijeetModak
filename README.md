@@ -77,7 +77,11 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-![3D Contributions](https://github.com/SrijeetModak/SrijeetModak/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
+<h1 align="center">
+  <img src="https://media.giphy.com/media/xyz123/giphy.gif" width="30"/> 
+  Welcome to My Profile 
+  <img src="https://media.giphy.com/media/xyz123/giphy.gif" width="30"/>
+</h1>
 
 <!-- ## 🏆 GitHub Trophies -->
 <!-- ![](https://github-profile-trophy.vercel.app/?username=SrijeetModak&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
