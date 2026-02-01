@@ -77,10 +77,7 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-<!--START_SECTION:feed-->
-* [Latest Post](https://link.com)
-<!--END_SECTION:feed-->
-
+![3D Contributions](https://github.com/SrijeetModak/SrijeetModak/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 <!-- ## 🏆 GitHub Trophies -->
 <!-- ![](https://github-profile-trophy.vercel.app/?username=SrijeetModak&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
