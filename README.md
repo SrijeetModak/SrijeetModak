@@ -78,9 +78,9 @@
 </div>
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/xyz123/giphy.gif" width="30"/> 
-  Welcome to My Profile 
-  <img src="https://media.giphy.com/media/xyz123/giphy.gif" width="30"/>
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="40"/>
+  Welcome to My Profile
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="40"/>
 </h1>
 
 <!-- ## 🏆 GitHub Trophies -->
