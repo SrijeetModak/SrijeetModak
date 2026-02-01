@@ -1,6 +1,8 @@
 ## 💫 About Me:
 👨‍💻 Working on <br>Academics & Java Full Stack Projects<br><br>🌍 Open to opportunities  <br>Internships, open-source contributions & team projects  <br><br>🌱 I’m currently learning  <br>DSA, Spring Security, Microservices, Redis caching, Cloud Fundamentals & System Design basics <br><br>💬 Ask me about  <br>Java, Spring Boot, REST APIs, React, MySQL <br><br>🏗️ Tech stack I use  <br>Java, Spring Boot, React, MySQL, MongoDB, Git, Postman<br>
 
+![Gradient](https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=header&text=Srijeet&fontSize=40&animation=fadeIn)
+
 ## ✨ Overview
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi,+I+am+Srijeet+Modak;CSE+Undergrad+Student;Java+Full+Stack+Developer;Spring+Boot+%7C+ReactJS+%7C+MySQL;Building+Scalable+Web+Apps"/>
