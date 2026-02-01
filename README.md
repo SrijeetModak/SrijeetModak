@@ -4,6 +4,7 @@
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="40"/>
   Welcome to Srijeet's GitHub Profile
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="40"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="40"/>
 </h1>
 
 ## 💫 About Me:
