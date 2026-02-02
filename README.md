@@ -71,7 +71,7 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SrijeetModak&theme=github-compact)
 
-![Metrics](https://github.com/lowlighter/metrics)
+![Metrics]([https://github.com/lowlighter/metrics](https://github.com/lowlighter/metrics/blob/master/source/plugins/isocalendar/README.md?plain=1))
 
 ## 🐍 Contribution Calendar Animation
 <!-- Snake Game Repo View -->
