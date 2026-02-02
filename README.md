@@ -71,6 +71,8 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SrijeetModak&theme=github-compact)
 
+![GitHubCard](https://githubcard.vercel.app/api?username=SrijeetModak&theme=dark)
+
 ## 🐍 Contribution Calendar Animation
 <!-- Snake Game Repo View -->
 <div align="center">
