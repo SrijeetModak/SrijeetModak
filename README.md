@@ -71,8 +71,7 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SrijeetModak&theme=github-compact)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SrijeetModak&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrijeetModak&layout=compact)
+![Metrics](https://metrics.lecoq.io/SrijeetModak?template=classic&languages=1&stars=1&followup=1)
 
 ## 🐍 Contribution Calendar Animation
 <!-- Snake Game Repo View -->
