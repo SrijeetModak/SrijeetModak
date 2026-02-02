@@ -69,8 +69,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=SrijeetModak&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SrijeetModak&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME)
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SrijeetModak&theme=github-compact)
 
 ## 🐍 Contribution Calendar Animation
