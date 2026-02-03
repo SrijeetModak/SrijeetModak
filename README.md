@@ -96,6 +96,7 @@ Java running successfully!
 <!-- ## 🔝 Top Contributed Repo -->
 <!-- ![](https://github-contributor-stats.vercel.app/api?username=SrijeetModak&limit=5&theme=radical&combine_all_yearly_contributions=true) -->
 
+## 👁️ Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SrijeetModak&style=for-the-badge" />
 </p>
