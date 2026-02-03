@@ -90,6 +90,11 @@ public class Main {
         System.out.println("Java running successfully!");
     }
 }
+```
+```bash
+Srijeet@localhost:~$ java Main
+Java running successfully!
+```
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SrijeetModak&style=for-the-badge" />
