@@ -92,7 +92,8 @@ public class Main {
 }
 ```
 ```bash
-Srijeet@localhost:~$ java Main
+C:\JavaProjects> javac Main.java
+C:\JavaProjects> java Main
 Java running successfully!
 ```
 
