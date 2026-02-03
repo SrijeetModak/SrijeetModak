@@ -93,7 +93,5 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SrijeetModak&theme=onedark)](https://github.com/SrijeetModak/github-profile-trophy)
-
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
