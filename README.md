@@ -83,6 +83,14 @@
 <!-- ## 🔝 Top Contributed Repo -->
 <!-- ![](https://github-contributor-stats.vercel.app/api?username=SrijeetModak&limit=5&theme=radical&combine_all_yearly_contributions=true) -->
 
+### Java Code
+```java
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Java running successfully!");
+    }
+}
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SrijeetModak&style=for-the-badge" />
 </p>
