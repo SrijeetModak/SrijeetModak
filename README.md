@@ -10,6 +10,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi,+I+am+Srijeet+Modak;CSE+Undergrad+Student;Java+Full+Stack+Developer;Spring+Boot+%7C+ReactJS+%7C+MySQL;Building+Scalable+Web+Apps"/>
 </p>
 
+```java
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Java running successfully!");
+    }
+}
+```
+```bash
+C:\JavaProjects> javac Main.java
+C:\JavaProjects> java Main
+Java running successfully!
+```
+
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/srijeet-modak-606a9b2b6">
   <img
@@ -82,20 +95,6 @@
 
 <!-- ## 🔝 Top Contributed Repo -->
 <!-- ![](https://github-contributor-stats.vercel.app/api?username=SrijeetModak&limit=5&theme=radical&combine_all_yearly_contributions=true) -->
-
-###   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" /> Java Code
-```java
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("Java running successfully!");
-    }
-}
-```
-```bash
-C:\JavaProjects> javac Main.java
-C:\JavaProjects> java Main
-Java running successfully!
-```
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SrijeetModak&style=for-the-badge" />
