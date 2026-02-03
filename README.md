@@ -83,7 +83,7 @@
 <!-- ## 🔝 Top Contributed Repo -->
 <!-- ![](https://github-contributor-stats.vercel.app/api?username=SrijeetModak&limit=5&theme=radical&combine_all_yearly_contributions=true) -->
 
-### Java Code
+###   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" /> Java Code
 ```java
 public class Main {
     public static void main(String[] args) {
