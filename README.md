@@ -3,7 +3,7 @@
 </p>
 
 ## 💫 About Me:
-👨‍💻 Working on <br>Academics & Java Full Stack Projects<br><br>🌍 Open to opportunities  <br>Internships, open-source contributions & team projects  <br><br>🌱 I’m currently learning  <br>DSA, Spring Security, Microservices, Redis caching, Cloud Fundamentals & System Design basics <br><br>💬 Ask me about  <br>Java, Spring Boot, REST APIs, React, MySQL <br><br>🏗️ Tech stack I use  <br>Java, Spring Boot, React, MySQL, MongoDB, Git, Postman<br>
+👨‍💻 Working on <br>Academics & Java Full Stack Projects<br><br>🌍 Open to opportunities  <br>Internships, open-source contributions & team projects  <br><br>🌱 I’m currently learning  <br>DSA, Spring Security, Microservices, Redis caching, Cloud Fundamentals & System Design basics <br><br>💬 Ask me about  <br>Java, Spring Boot, REST APIs, React, MySQL <br><br>🏗️ Tech stack I use  <br>Java, Spring Boot, React, MySQL, MongoDB, Git, Postman API<br>
 
 ## ✨ Overview
 <p align="center">
