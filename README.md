@@ -111,14 +111,3 @@ Java running successfully!
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SrijeetModak&label=Profile%20views&color=0e75b6&style=flat" alt="SrijeetModak" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SrijeetModak" alt="SrijeetModak" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SrijeetModak&show_icons=true&locale=en&layout=compact" alt="SrijeetModak" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SrijeetModak&show_icons=true&locale=en" alt="SrijeetModak" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SrijeetModak&" alt="SrijeetModak" /></p>
-
