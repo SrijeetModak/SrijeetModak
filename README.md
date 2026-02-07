@@ -75,6 +75,10 @@ Java running successfully!
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thymeleaf/thymeleaf-original.svg" height="30" alt="thymeleaf logo" /> 
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="30" alt="intellij logo" />
+  <img width="12" />        
 </div>
 
 ## 📊 GitHub Stats:
