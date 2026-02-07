@@ -73,6 +73,8 @@ Java running successfully!
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="aws logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thymeleaf/thymeleaf-original.svg" height="30" alt="thymeleaf logo" /> 
+  <img width="12" />
 </div>
 
 ## 📊 GitHub Stats:
