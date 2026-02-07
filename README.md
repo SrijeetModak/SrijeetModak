@@ -78,7 +78,9 @@ Java running successfully!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" height="30" alt="maven logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg" height="30" alt="maven logo" />
-  <img width="12" />        
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" height="30" alt="swagger logo" />
+  <img width="12" />
 </div>
 
 ## 📊 GitHub Stats:
