@@ -120,8 +120,5 @@ Java running successfully!
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30" />
 </p>
 
-### 📊 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrijeetModak&layout=compact&theme=radical)
-
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
