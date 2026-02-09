@@ -121,7 +121,7 @@ Java running successfully!
 </p>
 
 ### 📊 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srijeet&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrijeetModak&layout=compact&theme=radical)
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
